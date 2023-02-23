@@ -1,0 +1,10 @@
+{
+  "include": ["./src"],
+  "compilerOptions": {
+    "target": "ES2017",
+    "noImplicitAny": true,
+    "baseUrl": "./src",
+    "allowJs": false,
+    "outDir": "./dist"
+  }
+}
